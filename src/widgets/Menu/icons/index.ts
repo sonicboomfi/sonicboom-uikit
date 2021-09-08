@@ -28,3 +28,4 @@ export { default as AirdropIcon } from "./Airdrop";
 export { default as ChartIcon } from "./Chart";
 export { default as FeatureIcon } from "./Feature";
 export { default as SonicIcon } from "./Sonic";
+export { default as LayerIcon } from "./Layer";
